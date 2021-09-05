@@ -1,4 +1,4 @@
-# unity-learn-unit-1
+# Unity-learn-unit-1
 Unity Learn - Jr. Programmer Pathway - Unit 1
 
 This is from "Create with Code: Live - Spring 2021 - Week 1"
